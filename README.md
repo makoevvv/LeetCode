@@ -1,8 +1,10 @@
 # LeetCode
 LeetCode problems solutions.
 
-| #    | Difficulty                                    | Progress |
-|:-----|:----------------------------------------------|:---------|
-| 1    | Easy                                          |      111 |
-| 2    | Medium                                        |       11 |
-| 3    | Hard                                          |        1 |
+| #    | Name                                                          |Language | Difficulty  |
+|:-----|:--------------------------------------------------------------|:--------|:------------|
+| 33   | Search in Rotated Sorted Array                                |     C++ |      Medium |
+| 34   | Find First and Last Position of Element in Sorted Array       |     C++ |      Medium |
+| 36   | Valid Sudoku                                                  |     C++ |      Medium |
+| 39   | Combination Sum                                               |     C++ |      Medium |
+| 43   | Multiply Strings                                              |     C++ |      Medium |
