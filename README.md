@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/makoevvv/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/makoevvv/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/makoevvv/LeetCode/tree/master/0645-set-mismatch) |
+| [1039-find-the-town-judge](https://github.com/makoevvv/LeetCode/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/makoevvv/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/makoevvv/LeetCode/tree/master/0861-flipping-an-image) |
 | [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1039-find-the-town-judge](https://github.com/makoevvv/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -527,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/makoevvv/LeetCode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
