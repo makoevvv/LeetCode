@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/makoevvv/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1635-number-of-good-pairs](https://github.com/makoevvv/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/makoevvv/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/makoevvv/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/makoevvv/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/makoevvv/LeetCode/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/makoevvv/LeetCode/tree/master/1054-complement-of-base-10-integer) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/makoevvv/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Memoization
 |  |
 | ------- |
