@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/makoevvv/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/makoevvv/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/makoevvv/LeetCode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/makoevvv/LeetCode/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/makoevvv/LeetCode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/makoevvv/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/makoevvv/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/makoevvv/LeetCode/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
 | ------- |
