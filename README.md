@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/makoevvv/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/makoevvv/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/makoevvv/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/makoevvv/LeetCode/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/makoevvv/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/makoevvv/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/makoevvv/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/makoevvv/LeetCode/tree/master/0056-merge-intervals) |
 ## Stack
 |  |
 | ------- |
