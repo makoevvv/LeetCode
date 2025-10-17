@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/makoevvv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/makoevvv/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2481-strictly-palindromic-number](https://github.com/makoevvv/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/makoevvv/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/makoevvv/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/makoevvv/LeetCode/tree/master/0861-flipping-an-image) |
+| [2481-strictly-palindromic-number](https://github.com/makoevvv/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/makoevvv/LeetCode/tree/master/0292-nim-game) |
+| [2481-strictly-palindromic-number](https://github.com/makoevvv/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
