@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/makoevvv/LeetCode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/makoevvv/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/makoevvv/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/makoevvv/LeetCode/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/makoevvv/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/makoevvv/LeetCode/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/makoevvv/LeetCode/tree/master/0043-multiply-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/makoevvv/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
