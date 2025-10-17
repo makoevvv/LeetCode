@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/makoevvv/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/makoevvv/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/makoevvv/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/makoevvv/LeetCode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/makoevvv/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/makoevvv/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/makoevvv/LeetCode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/makoevvv/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/makoevvv/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/makoevvv/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/makoevvv/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/makoevvv/LeetCode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
