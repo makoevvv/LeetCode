@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/makoevvv/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/makoevvv/LeetCode/tree/master/0645-set-mismatch) |
 | [1039-find-the-town-judge](https://github.com/makoevvv/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/makoevvv/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## String
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/makoevvv/LeetCode/tree/master/0861-flipping-an-image) |
 | [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1039-find-the-town-judge](https://github.com/makoevvv/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/makoevvv/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/makoevvv/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/makoevvv/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/makoevvv/LeetCode/tree/master/0605-can-place-flowers) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/makoevvv/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## Trie
 |  |
 | ------- |
