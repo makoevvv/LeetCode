@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/makoevvv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/makoevvv/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/makoevvv/LeetCode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/makoevvv/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/makoevvv/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/makoevvv/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/makoevvv/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/makoevvv/LeetCode/tree/master/0724-find-pivot-index) |
 ## Number Theory
 |  |
 | ------- |
