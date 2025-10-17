@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/makoevvv/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/makoevvv/LeetCode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/makoevvv/LeetCode/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/makoevvv/LeetCode/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/makoevvv/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/makoevvv/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/makoevvv/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/makoevvv/LeetCode/tree/master/0561-array-partition) |
 ## Trie
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/makoevvv/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/makoevvv/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/makoevvv/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/makoevvv/LeetCode/tree/master/0561-array-partition) |
 ## Stack
 |  |
 | ------- |
@@ -449,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/makoevvv/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/makoevvv/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
