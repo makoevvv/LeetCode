@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/makoevvv/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/makoevvv/LeetCode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/makoevvv/LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/makoevvv/LeetCode/tree/master/0504-base-7) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/makoevvv/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/makoevvv/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/makoevvv/LeetCode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/makoevvv/LeetCode/tree/master/0504-base-7) |
 ## Sliding Window
 |  |
 | ------- |
