@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/makoevvv/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/makoevvv/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/makoevvv/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/makoevvv/LeetCode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/makoevvv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makoevvv/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/makoevvv/LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/makoevvv/LeetCode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/makoevvv/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/makoevvv/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/makoevvv/LeetCode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/makoevvv/LeetCode/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/makoevvv/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/makoevvv/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/makoevvv/LeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/makoevvv/LeetCode/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
