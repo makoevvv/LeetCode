@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/makoevvv/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/makoevvv/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/makoevvv/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/makoevvv/LeetCode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/makoevvv/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/makoevvv/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/makoevvv/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/makoevvv/LeetCode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/makoevvv/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/makoevvv/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/makoevvv/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/makoevvv/LeetCode/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
