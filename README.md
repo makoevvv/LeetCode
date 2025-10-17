@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/makoevvv/LeetCode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/makoevvv/LeetCode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/makoevvv/LeetCode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/makoevvv/LeetCode/tree/master/0566-reshape-the-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/makoevvv/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/makoevvv/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/makoevvv/LeetCode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/makoevvv/LeetCode/tree/master/0566-reshape-the-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/makoevvv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/makoevvv/LeetCode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/makoevvv/LeetCode/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/makoevvv/LeetCode/tree/master/0566-reshape-the-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
