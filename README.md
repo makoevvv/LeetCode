@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/makoevvv/LeetCode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/makoevvv/LeetCode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makoevvv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/makoevvv/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/makoevvv/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/makoevvv/LeetCode/tree/master/0861-flipping-an-image) |
+| [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/makoevvv/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makoevvv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/makoevvv/LeetCode/tree/master/0645-set-mismatch) |
+| [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -282,10 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/makoevvv/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/makoevvv/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/makoevvv/LeetCode/tree/master/0191-number-of-1-bits) |
+| [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/makoevvv/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -514,4 +519,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/makoevvv/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
