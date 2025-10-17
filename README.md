@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/makoevvv/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/makoevvv/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/makoevvv/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/makoevvv/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/makoevvv/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/makoevvv/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/makoevvv/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/makoevvv/LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
