@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/makoevvv/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/makoevvv/LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/makoevvv/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/makoevvv/LeetCode/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/makoevvv/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/makoevvv/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/makoevvv/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/makoevvv/LeetCode/tree/master/0605-can-place-flowers) |
 ## Trie
 |  |
 | ------- |
