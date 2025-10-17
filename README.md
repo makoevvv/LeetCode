@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/makoevvv/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/makoevvv/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/makoevvv/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/makoevvv/LeetCode/tree/master/0278-first-bad-version) |
 ## Matrix
 |  |
 | ------- |
@@ -330,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/makoevvv/LeetCode/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/makoevvv/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
