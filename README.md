@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/makoevvv/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/makoevvv/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/makoevvv/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/makoevvv/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sliding Window
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/makoevvv/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/makoevvv/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1635-number-of-good-pairs](https://github.com/makoevvv/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/makoevvv/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Two Pointers
 |  |
 | ------- |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/makoevvv/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/makoevvv/LeetCode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/makoevvv/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/makoevvv/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Number Theory
 |  |
 | ------- |
