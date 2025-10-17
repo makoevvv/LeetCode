@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/makoevvv/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/makoevvv/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/makoevvv/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/makoevvv/LeetCode/tree/master/0551-student-attendance-record-i) |
 ## Sliding Window
 |  |
 | ------- |
