@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/makoevvv/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/makoevvv/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/makoevvv/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/makoevvv/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/makoevvv/LeetCode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/makoevvv/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/makoevvv/LeetCode/tree/master/0861-flipping-an-image) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/makoevvv/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
