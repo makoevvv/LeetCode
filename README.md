@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/makoevvv/LeetCode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makoevvv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1635-number-of-good-pairs](https://github.com/makoevvv/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/makoevvv/LeetCode/tree/master/0645-set-mismatch) |
 | [1039-find-the-town-judge](https://github.com/makoevvv/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/makoevvv/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1635-number-of-good-pairs](https://github.com/makoevvv/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/makoevvv/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/makoevvv/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/makoevvv/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1635-number-of-good-pairs](https://github.com/makoevvv/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/makoevvv/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/makoevvv/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/makoevvv/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1635-number-of-good-pairs](https://github.com/makoevvv/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Design
 |  |
 | ------- |
