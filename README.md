@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/makoevvv/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/makoevvv/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/makoevvv/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/makoevvv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/makoevvv/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/makoevvv/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/makoevvv/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/makoevvv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/makoevvv/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/makoevvv/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/makoevvv/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/makoevvv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/makoevvv/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/makoevvv/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/makoevvv/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/makoevvv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/makoevvv/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/makoevvv/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/makoevvv/LeetCode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/makoevvv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
