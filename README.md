@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/makoevvv/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1039-find-the-town-judge](https://github.com/makoevvv/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/makoevvv/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/makoevvv/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/makoevvv/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/makoevvv/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/makoevvv/LeetCode/tree/master/0724-find-pivot-index) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/makoevvv/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Number Theory
 |  |
 | ------- |
